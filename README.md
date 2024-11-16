@@ -1,5 +1,6 @@
 # Workforce-Analytics-Unleashed-Building-an-HR-Dashboard-with-Tableau
-[!a link](
+![alt text](https://github.com/myselfadib/Workforce-Analytics-Unleashed-Building-an-HR-Dashboard-with-Tableau/blob/main/HR%20Overview.png)
+![alt text](https://github.com/myselfadib/Workforce-Analytics-Unleashed-Building-an-HR-Dashboard-with-Tableau/blob/main/HR%20Details.png)
 # Overview
 This project showcases the creation of a dynamic HR Dashboard using Tableau Public, designed to provide in-depth analysis and visualization of workforce metrics. It employs custom-generated data and sophisticated visualization techniques to aid HR professionals in making informed decisions.
 
